@@ -1,4 +1,4 @@
-# SkillPulse
+# Skillpulse
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for the Vercel + Render production deployment runbook.
 
