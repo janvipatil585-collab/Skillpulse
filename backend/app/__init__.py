@@ -1,0 +1,1 @@
+"""SkillPulse FastAPI application package."""
